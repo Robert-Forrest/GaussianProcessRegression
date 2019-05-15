@@ -7,12 +7,12 @@
 This simple python project performs Gaussian process regression, without depending on any external libraries.  
 
 Gaussian process regression involves sampling from a distribution over all functions:  
-![FunctionPosterior]()
+![FunctionPosterior](https://github.com/Robert-Forrest/GaussianProcessRegression/blob/master/examples/FunctionPosterior.png)
 
 Allowing us to make predictions based on a training data set consisting of samples from the true process:  
-![FunctionPrediction]()  
+![FunctionPrediction](https://github.com/Robert-Forrest/GaussianProcessRegression/blob/master/examples/Prediction.png)  
 
-![Uncertainty]()  
+![Uncertainty](https://github.com/Robert-Forrest/GaussianProcessRegression/blob/master/examples/Uncertainty.png)  
 
 ### License
 This project is licensed under the terms of MIT license. See the LICENSE file for more info.
